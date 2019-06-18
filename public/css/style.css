@@ -1,0 +1,34 @@
+#site-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#navbar-inner {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#navbar-inner label {
+    color: white;
+    font-weight: inherit !important;
+}
+
+#cows-list {
+    width: 60%;
+    float: left;
+}
+
+#cow-details {
+    margin: 0px 40px;
+    float: left;
+}
+
+#header-image {
+    max-width: 100%;
+    height: auto;
+}
+
+#pager {
+    float: left;
+    width: 100%;
+}
